@@ -18,7 +18,7 @@
 <img align="center" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 
-<!--![Snake animation](https://github.com/WesleyNeves16/WesleyNeves16/blob/output/github-contribution-grid-snake.svg)-->
+![Snake animation](https://github.com/WesleyNeves16/WesleyNeves16/blob/output/github-contribution-grid-snake.svg)
   
 <!--
 **WesleyNeves16/WesleyNeves16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
