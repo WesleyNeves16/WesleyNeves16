@@ -4,8 +4,8 @@
 
  - ##### 👨‍💻 Trabalho com back-end (Delphi e C# .NET)
  - ##### 👨‍💼 Lidero a equipe de desenvolvimento da Gsoft Brasil Sistemas
- - ##### 👨‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas (3 anos)
- - ##### 🌱 Tenho me aprofundando no conhecimento de POO em C# .NET, aplicando conceitos de SOLID, trabalhando com o mesmo, também tendo conhecimento e experiência em Delphi
+ - ##### 👨‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas (curso de 3 anos)
+ - ##### 🌱 Estudando e me aprofundando em .Net
  - ##### 🐬 Fato aleatório: sou comparado a um golfinho por causa de minha risada
 
 <div align="center">
