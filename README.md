@@ -9,7 +9,6 @@
  - ##### 🐬 Fato aleatório: sou comparado a um golfinho por causa de minha risada
  - ##### 🐬 Fato aleatório: Sou Tchola <3
  
-
 <div align="center">
   <a href="https://github.com/WesleyNeves16">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=WesleyNeves16&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"> <!-- usar theme=prussian ou theme=algolia -->
