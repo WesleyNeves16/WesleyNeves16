@@ -8,6 +8,7 @@
  - ##### 🌱 Estudando e me aprofundando em .Net
  - ##### 🐬 Fato aleatório: sou comparado a um golfinho por causa de minha risada
  - ##### 🐬 Fato aleatório: Sou Tchola <3
+ 
 
 <div align="center">
   <a href="https://github.com/WesleyNeves16">
