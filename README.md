@@ -7,7 +7,8 @@
  - ##### 👨‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas (curso de 3 anos)
  - ##### 🌱 Estudando e me aprofundando em .Net
  - ##### 🐬 Fato aleatório: sou comparado a um golfinho por causa de minha risada
- - ##### 🐬 Fato aleatório: Sou Tchola <3
+ - ##### 🔰 Fato aleatório: Sou Tchola <3
+ - ##### 🚾 Fato aleatório: Amo o Wincash
  
 <div align="center">
   <a href="https://github.com/WesleyNeves16">
