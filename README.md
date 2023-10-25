@@ -6,7 +6,6 @@
  - ##### 👨‍💼 Lidero a equipe de desenvolvimento da Gsoft Brasil Sistemas
  - ##### 👨‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas (curso de 3 anos)
  - ##### 🌱 Estudando e me aprofundando em .Net
- - ##### 🐬 Fato aleatório: sou comparado a um golfinho por causa de minha risada
  
 <div align="center">
   <a href="https://github.com/WesleyNeves16">
