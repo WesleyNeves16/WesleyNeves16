@@ -21,7 +21,11 @@
 
 <div align="center">
   
-![Snake animation](https://github.com/WesleyNeves16/WesleyNeves16/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/WesleyNeves16/WesleyNeves16/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/WesleyNeves16/WesleyNeves16/blob/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WesleyNeves16/WesleyNeves16/output/github-contribution-grid-snake.svg">
+</picture>
   
 </div> 
   
